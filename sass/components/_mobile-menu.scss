@@ -101,6 +101,7 @@
     font-size: 18px;
     line-height: 1.22;
     letter-spacing: 0.02em;
+    flex-wrap: wrap;
   }
   .mobile-social__item:not(:last-child) {
     padding-right: 10px;
